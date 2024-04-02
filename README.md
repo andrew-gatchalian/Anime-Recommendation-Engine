@@ -1,12 +1,12 @@
-## 🌟 Anime Recommendation Engine Project 🌟
+# 🌟 Anime Recommendation Engine Project 🌟
 Dive into the world of Japanese animation with our team's Anime Recommendation Engine! Developed by Yilu Chen, Andrew Gatchalian, Sara Hart, Hsuan-Yi Lin, and Rakesh Venkata Subramaniyan at the University of California, Irvine.
 - Leveraged viewer preference data to develop a machine learning recommendation engine for anime.
 - Utilized web scraping and API integration to collect, clean, and pre-process data from MyAnimeList.
 
-# Context
+## Context
 This dataset for this project is available on my [Kaggle](https://www.kaggle.com/datasets/andrewgatchalian/myanimelist-user-ratings) account. It contains over 44 million rows of anime-related data, representing interactions from 18,145 unique users and 16,135 unique shows.
 
-# Source
+## Source
 The data was sourced directly from the website MyAnimeList, one of the largest anime-driven forums that allows users to track, rate, and review anime.
 
 The dataset contains 4 files:
@@ -17,7 +17,7 @@ The dataset contains 4 files:
 
 &gt;Instances of '-1' in the data represent information unavailable on MyAnimeList as of 11/2023.
 
-# Content
+## Content
 `anime_titles.csv`
 - **anime_id**: MyAnimeList unique number ID
 - **title**: full name of anime
@@ -45,10 +45,10 @@ The dataset contains 4 files:
 `username_list_full.csv`
 - **username**: MyAnimeList username
 
-# Acknowledgements
+## Acknowledgements
 Thanks to:
 1. [MyAnimeList](https://myanimelist.net/) website and API
 2. [Cooperunion](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) Kaggle Dataset
 
-# Inspiration
+## Inspiration
 To make anime accessible for both old and new viewers!
