@@ -4,7 +4,7 @@ Dive into the world of Japanese animation with our team's Anime Recommendation E
 - Utilized web scraping and API integration to collect, clean, and pre-process data from MyAnimeList.
 
 # Context
-This dataset for this project is availble on my [Kaggle](https://www.kaggle.com/datasets/andrewgatchalian/myanimelist-user-ratings) account. It contains over 44 million rows of anime-related data, representing interactions from 18,145 unique users and 16,135 unique shows.
+This dataset for this project is available on my [Kaggle](https://www.kaggle.com/datasets/andrewgatchalian/myanimelist-user-ratings) account. It contains over 44 million rows of anime-related data, representing interactions from 18,145 unique users and 16,135 unique shows.
 
 # Source
 The data was sourced directly from the website MyAnimeList, one of the largest anime-driven forums that allows users to track, rate, and review anime.
